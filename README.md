@@ -1,11 +1,12 @@
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47bakxhk3zk22jd8s3z3qlwvneaivghtu515y42pim&rid=giphy.gif&ct=g" align="right" width="400" height="300"/> 
 
+<br />
 
 ### Hi there, I'm Bahar! :blush:
 
-## Computer Engineer | Jr. Software Developer
+## Computer Engineer | Jr. Developer
 
-<font color="yellow">Coffee ☕ is how I keep up with '< code />' </font>
+<font color="yellow">Coffee ☕ is how I keep up with '< learning />' </font>
 
  ### Reach out to me:
 
